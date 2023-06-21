@@ -1,5 +1,5 @@
 [한국어](https://github.com/FTIndustries/chargemaster-1500/blob/main/readme-ko.md)
-# chargemaster-1500
+# FT Industries Chargemaster-1500
 ![preview](https://github.com/FTIndustries/chargemaster-1500/blob/main/3dpreview.png?raw=true)\
 Lithium ion/polymer battery charging module based on BQ24073. It can charge batteries at up to 1500mA speed. Provides overcharge protection, power path control, selectable max charging currnet. It can draw current from battery even while charging so you don't need to worry about low current situation.
 ## selecting max charging current
