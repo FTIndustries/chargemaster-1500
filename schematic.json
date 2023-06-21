@@ -113,7 +113,7 @@
           "F~part_netLabel_gnD~340~-470~0~gge4750~~0^^340~-470^^GND~#000000~327~-444~0~start~1~Times New Roman~9pt~flag_gge196^^PL~340 -460 340 -470~#000000~1~0~transparent~gge4762~0^^PL~331 -460 349 -460~#000000~1~0~transparent~gge4765~0^^PL~334 -458 346 -458~#000000~1~0~transparent~gge4768~0^^PL~337 -456 343 -456~#000000~1~0~transparent~gge4771~0^^PL~339 -454 341 -454~#000000~1~0~transparent~gge4774~0",
           "LIB~400~-505~package`R0402`nameAlias`Value(Ω)`BOM_Supplier Part``BOM_Supplier``Contributor`LCEDA_Lib`spicePre`R`spiceSymbolName`R_0402_EU`BOM_Manufacturer Part``~~0~gge957ca6fc0056d0ec~fafd024f554e426eb74cf4a204aa88b0~01f8feef49be43dcbfbe672254cb7b57~0~~yes~yes~~1586862181~#@$T~N~394.03~-513~0~#000080~Arial~~~~~comment~2k~1~start~gge4820~0~#@$T~P~394.03~-522.04~0~#000080~Arial~~~~~comment~R7~1~start~gge4826~0~#@$R~390~-510~~~20~10~#A00000~1~0~none~gge4832~0~#@$P~show~0~2~420~-505~0~gge4835~0^^420~-505^^M 410 -505 h 10~#800^^0~406~-505~0~2~end~~~#800^^0~414~-509~0~2~start~~~#800^^0~433~-505^^0~M 430 -508 L 427 -505 L 430 -502#@$P~show~0~1~380~-505~180~gge4856~0^^380~-505^^M 390 -505 h -10~#800^^0~394~-505~0~1~start~~~#800^^0~386~-509~0~1~end~~~#800^^0~367~-505^^0~M 370 -502 L 373 -505 L 370 -508",
           "W~340 -505 340 -470 380 -470~#008800~1~0~none~gge4881~0",
-          "LIB~360~-505~package`SOLDERJUMPER`description`Solder Jumper`Contributor`gilatoes`BOM_Supplier Part``BOM_Supplier``spicePre`S`spiceSymbolName`Solder Jumper`BOM_Manufacturer Part``~180~0~ggedf27473608d1e6f9~a70b6e353f964efd8a40312a5feb41c9~7d416c0cc3d64875ad37c32ab027642c~0~~yes~yes~~1592121872~#@$T~N~324.65~-511.75~0~#000080~Arial~~~~~comment~Solder Jumper~1~start~gge4893~0~#@$T~P~351.96~-519~0~#000080~Arial~~~~~comment~SJ1~1~start~gge4899~0~#@$A~M 359 -503 A 2 2 0 0 1 359 -507~~#8D2323~5~0~none~gge4905~0#@$A~M 361 -507 A 2 2 0 0 1 361 -503~~#8D2323~5~0~none~gge4908~0#@$PL~350 -505 354 -505~#8D2323~1~0~none~gge4911~0#@$PL~370 -505 366 -505~#8D2323~1~0~none~gge4914~0#@$P~show~0~2~340~-505~180~gge4917~0^^340~-505^^M 340 -505 h 10~#8D2323^^0~353~-502~0~2~start~~~#8D2323^^0~344~-506~0~2~end~~~#8D2323^^0~347~-505^^0~M 350 -502 L 353 -505 L 350 -508#@$P~show~0~1~380~-505~0~gge4938~0^^380~-505^^M 380 -505 h -10~#8D2323^^0~367~-502~0~1~end~~~#8D2323^^0~376~-506~0~1~start~~~#8D2323^^0~373~-505^^0~M 370 -508 L 367 -505 L 370 -502",
+          "LIB~360~-505~package`SOLDERJUMPER_CLOSEDWIRE`Contributor`ABDULLAH KUCUKODUK`spicePre`S`spiceSymbolName`SOLDERJUMPER_CLOSED`BOM_Manufacturer Part``~~0~gge1cb99bcd3abbf624~b215599b9e524d298db208cf0f017289~59bf2b7f0aa64e97ac4623af3dcaaa0c~0~~yes~yes~~1597195680~#@$T~N~269.83~-516.76~0~#000080~Arial~~~~~comment~SOLDERJUMPER_CLOSED~1~start~gge13133~0~#@$T~P~351.96~-525.18~0~#000080~Arial~~~~~comment~SJ1~1~start~gge13139~0~#@$A~M 361.657 -507.5 A 2.5 2.5 0 0 1 361.657 -502.5~~#A54B4B~5~0~none~gge13145~0#@$A~M 358.657 -502.5 A 2.5 2.5 0 0 1 358.657 -507.5~~#A54B4B~5~0~none~gge13148~0#@$PL~370.16 -505 366.66 -505~#A54B4B~1~0~none~gge13151~0#@$PL~350.16 -505 353.66 -505~#A54B4B~1~0~none~gge13154~0#@$PL~357.66 -505 362.66 -505~#A54B4B~1.6~0~none~gge13157~0#@$P~show~3~2~380~-505~0~gge13160~0^^380~-505^^M 380 -505 h -9.842~#A54B4B^^0~360.47~-502.047~0~2~end~~4.5pt~#A54B4B^^1~376.22~-506.97~0~2~start~~4.5pt~#A54B4B^^0~374~-505^^0~M 371 -508 L 368 -505 L 371 -502#@$P~show~3~1~340~-505~180~gge13181~0^^340~-505^^M 340 -505 h 9.842~#A54B4B^^0~359.84~-502.047~0~1~start~~4.5pt~#A54B4B^^1~344.09~-506.97~0~1~end~~4.5pt~#A54B4B^^0~346~-505^^0~M 349 -502 L 352 -505 L 349 -508",
           "J~95~-670~2.5~#CC0000~gge982~0",
           "J~260~-595~2.5~#CC0000~gge1000~0",
           "J~600~-330~2.5~#CC0000~gge1931~0",
@@ -134,9 +134,9 @@
         ],
         "BBox": {
           "x": -40,
-          "y": -745.8,
+          "y": -746,
           "width": 806,
-          "height": 563.1
+          "height": 563.5
         },
         "colors": {}
       }
